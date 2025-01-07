@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the difference between 'let' and 'const' in JavaScript?",
+    "answers": [
+      {
+        "text": "'let' declarations can be reassigned, while 'const' declarations cannot be reassigned",
+        "isCorrect": true
+      },
+      {
+        "text": "'const' declarations can be reassigned, while 'let' declarations cannot be reassigned",
+        "isCorrect": false
+      },
+      {
+        "text": "There is no difference, they are interchangeable",
+        "isCorrect": false
+      },
+      {
+        "text": "'let' is for strings, 'const' is for numbers",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What does CSS stand for?",
+    "answers": [
+      {
+        "text": "Computer Style Systems",
+        "isCorrect": false
+      },
+      {
+        "text": "Creative Style Sheets",
+        "isCorrect": false
+      },
+      {
+        "text": "Cascading Style Sheets",
+        "isCorrect": true
+      },
+      {
+        "text": "Colorful Style Sheets",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which Git command creates a new local repository?",
+    "answers": [
+      {
+        "text": "git clone",
+        "isCorrect": false
+      },
+      {
+        "text": "git init",
+        "isCorrect": true
+      },
+      {
+        "text": "git start",
+        "isCorrect": false
+      },
+      {
+        "text": "git create",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of the useEffect hook in React?",
+    "answers": [
+      {
+        "text": "To create new React components",
+        "isCorrect": false
+      },
+      {
+        "text": "To style React components",
+        "isCorrect": false
+      },
+      {
+        "text": "To perform side effects in function components",
+        "isCorrect": true
+      },
+      {
+        "text": "To handle form submissions",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What does API stand for?",
+    "answers": [
+      {
+        "text": "Application Programming Interface",
+        "isCorrect": true
+      },
+      {
+        "text": "Advanced Programming Implementation",
+        "isCorrect": false
+      },
+      {
+        "text": "Automated Program Integration",
+        "isCorrect": false
+      },
+      {
+        "text": "Application Program Installation",
+        "isCorrect": false
+      }
+    ]
+  }
+]
